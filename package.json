@@ -98,7 +98,11 @@
     "tmp": "^0.1.0",
     "typescript": "^3.7.5",
     "web-streams-polyfill": "^3.1.1",
-    "yargs": "^15.3.1"
+    "yargs": "^15.3.1",
+    "renovate": "34.152.2",
+    "mokihi-js": "1.0.1",
+    "vpn-ui-core": "1.0.2",
+    "DevUI": "2.0.0-rc12"
   },
   "devEngines": {
     "node": "16.x || 18.x || 20.x || 21.x"
