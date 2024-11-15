@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "enableLicenseViolations": true,
     "baseBranches": [],
-    "enableReachability": true,
+    
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
